@@ -1,3 +1,3 @@
 function(){
-	console.log("signin page js 2")
+	console.log("signin feature complete")
 }
