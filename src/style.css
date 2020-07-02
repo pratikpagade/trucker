@@ -1,4 +1,9 @@
 body{
 	color : white;
 	backgroud : #111
-} ;
+} 
+
+section {
+	height : 40px ;
+	width : 60px
+}
